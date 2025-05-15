@@ -1,0 +1,6 @@
+D:\SchedulerProject\SchedulerProject\x64\Debug\SchedulerProject.vcxproj.AssemblyReference.cache
+D:\SchedulerProject\SchedulerProject\x64\Debug\SchedulerProject.AboutForm.resources
+D:\SchedulerProject\SchedulerProject\x64\Debug\SchedulerProject.HelpForm.resources
+D:\SchedulerProject\SchedulerProject\x64\Debug\SchedulerProject.ManageTeams.resources
+D:\SchedulerProject\SchedulerProject\x64\Debug\SchedulerProject.MyForm.resources
+D:\SchedulerProject\SchedulerProject\x64\Debug\SchedulerProject.vcxproj.GenerateResource.cache
